@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,a4 as a}from"./chunks/framework.Cz4QOLCt.js";const m=JSON.parse('{"title":"软件篇","description":"","frontmatter":{},"headers":[],"relativePath":"others/软件篇.md","filePath":"others/软件篇.md"}'),l={name:"others/软件篇.md"},o=a("",3),i=[o];function n(s,h,d,f,_,c){return t(),r("div",null,i)}const b=e(l,[["render",n]]);export{m as __pageData,b as default};

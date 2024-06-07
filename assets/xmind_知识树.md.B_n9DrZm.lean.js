@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a4 as r}from"./chunks/framework.Cz4QOLCt.js";const b=JSON.parse('{"title":"FE","description":"","frontmatter":{},"headers":[],"relativePath":"xmind/知识树.md","filePath":"xmind/知识树.md"}'),o={name:"xmind/知识树.md"},i=r("",10),n=[i];function h(c,d,s,l,u,_){return t(),e("div",null,n)}const f=a(o,[["render",h]]);export{b as __pageData,f as default};

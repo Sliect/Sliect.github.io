@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a4 as i}from"./chunks/framework.Cz4QOLCt.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"books/学习之道.md","filePath":"books/学习之道.md"}'),o={name:"books/学习之道.md"},l=i("",15),r=[l];function s(h,n,_,c,d,p){return t(),e("div",null,r)}const b=a(o,[["render",s]]);export{m as __pageData,b as default};
